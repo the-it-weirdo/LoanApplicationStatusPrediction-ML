@@ -2,9 +2,9 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Github Followers](https://img.shields.io/github/followers/the-it-weirdo?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/the-it-weirdo/LoanApplicationStatusPrediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/the-it-weirdo/LoanApplicationStatusPrediction?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/the-it-weirdo/LoanApplicationStatusPrediction?style=social)
+![GitHub stars](https://img.shields.io/github/stars/the-it-weirdo/LoanApplicationStatusPrediction-ML?style=social)
+![GitHub forks](https://img.shields.io/github/forks/the-it-weirdo/LoanApplicationStatusPrediction-ML?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/the-it-weirdo/LoanApplicationStatusPrediction-ML?style=social)
 
 
 We trained 4 models viz. *‘KNN classifier model’, ‘Naive Bayes classifier model’, ‘Decision Tree classifier model’ and ‘Linear Regression classifier model’* for binary classification based on the attributes present in the dataset and predict whether a loan application should be approved or not.
