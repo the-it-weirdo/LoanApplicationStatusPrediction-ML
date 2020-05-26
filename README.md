@@ -28,6 +28,7 @@ We trained 4 models viz. *‘KNN classifier model’, ‘Naive Bayes classifier 
 - We found out the score, classification report, plotted the Receiver Operating Characteristic graph and found out the Area Under Curve (AUC) for each of the models trained. 
 - We used the trained models to predict the outcomes using the given test dataset and compare the outcome of each model. 
 - We choose the best model based on the accuracy score and classification report.
+- Detailed report is in the pdf file located [here](https://github.com/the-it-weirdo/LoanApplicationStatusPrediction-ML/tree/master/Project%20Report%20and%20PowerPoint%20Presentation).
 
 ## Built With 🛠
 - [Python](https://www.python.org/) - Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
